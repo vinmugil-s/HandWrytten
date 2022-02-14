@@ -1,0 +1,19 @@
+{
+  "locale": [
+    "en"
+  ],
+  "service": "FINANCE",
+  "whiteListedDomains": [],
+  "modules": {
+    "widgets": [
+      {
+        "location": "customer.details.button",
+        "name": "Handwrytten",
+        "url": "/app/widget.html",
+        "widget_type": "modal"
+      }
+    ]
+  },
+  "config": [],
+  "usedConnections": []
+}
